@@ -1,0 +1,18 @@
+.conteiner {
+    display: grid;
+    grid-template-columns: 1fr 1.7fr 1fr 1fr;
+    height: 120px;
+    border-radius: 25px;
+    box-shadow: 1px 5px 7px #e0e0e0;
+    padding: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.infp {
+    color: #FC882F;
+    font-weight: 900;
+    text-align: center;
+}
